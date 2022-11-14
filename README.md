@@ -1,6 +1,6 @@
 ### Hi there I´m Andrés Pacheco 👋
 <div align="center">
-  <img src="https://pbs.twimg.com/media/CmJuyEhWYAAE5fA?format=jpg&name=small" width="600" height="300"/>
+  <img src="https://pbs.twimg.com/media/CmJuyEhWYAAE5fA?format=jpg&name=small" width="700" height="300"/>
 </div>
 
 

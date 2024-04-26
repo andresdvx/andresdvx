@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/andresdavid.pachecocuadro" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrés david" height="30" width="40" /></a>
 <a href="https://instagram.com/andressdvx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andress_dvx" height="30" width="40" /></a>

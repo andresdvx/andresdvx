@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
 
+### 
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.instagram.com/andressdvx/" target="_blank">
@@ -45,8 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
-###
-
 ###
 
 <img align="right" height="120" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTkxeW5vdWdrc3Y2MXR1anl2d2c1ZjY3MnR4MXlqaW1ucThlOHAwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0AhBLqVKfha8/giphy.gif"  />

@@ -36,9 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
 
-### 
-
 <h2 align="center">Contact</h2>
+
+### 
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.instagram.com/andressdvx/" target="_blank">

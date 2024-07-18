@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Andrés and I'm a Backend developer from Colombia.</h2>
+<h2 align="left">Hi 👋! My name is Andrés and I'm a Backend developer from Colombia.</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=andresdvx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andresdvx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">Languajes and tools </h2>
+<h2 align="left">Languajes and tools </h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -37,9 +37,9 @@
 </div>
 
 
-<h2 align="center">Contact</h2>
+<h2 align="left">Contact</h2>
 
-<div align="center" style="margin-top: 20px;">
+<div align="left" style="margin-top: 20px;">
   <a href="https://www.instagram.com/andressdvx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>

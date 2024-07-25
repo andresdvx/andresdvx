@@ -21,7 +21,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://camo.githubusercontent.com/4f38bde15cc741aaec976cfa6e7006f82777f427419c58405ccdfc921310ab52/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" height="30" alt="express logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="15" />

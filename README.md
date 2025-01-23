@@ -12,7 +12,7 @@
 
 <h2 align="left">Languajes and tools </h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,wasm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,java,expressjs,html,css,docker,git)
 
 </br>
 </br>

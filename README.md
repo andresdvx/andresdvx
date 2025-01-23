@@ -11,7 +11,7 @@
 ###
 
 <h2>My Skills</h2>
-<hr/>
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,nodejs,expressjs,nestjs,prisma,sequelize,react,zustand,jest,html,css,java,docker,git,railway,mongodb,mysql,sqlserver)
 
 </br>

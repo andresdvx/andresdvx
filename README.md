@@ -5,7 +5,7 @@
    <img width="400"  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdvx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
-<h2>My Skills</h2>
+<h2>Skills</h2>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,ts,js,nodejs,expressjs,nestjs,prisma,react,zustand,jest,html,css,docker,git,railway,mongodb,mysql,sqlserver)
 

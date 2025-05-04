@@ -1,8 +1,9 @@
-<h2 align="left">Hi, I'm AndrésDvx - Software Engineering</h2>
+<h2 align="left">Hi, I'm AndrésDvx — Software Engineer</h2>
 
-- Backend Developer | Node.js
-- Software Architecture Enthusiast
-- Exploring Artificial Intelligence
+- 🔧 Currently Focused on Backend Development with Node.js  
+- 🧩 Passionate about Software Architecture  
+- 🤖 Exploring the world of Artificial Intelligence
+
 
 <div align="left">
    <img width="400"  height="150" src="https://github-readme-stats.vercel.app/api?username=andresdvx&include_all_commits=true&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />

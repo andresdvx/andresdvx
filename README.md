@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I'm AndrésDvx — Software Engineer</h2>
 
-- 🔧 Currently Focused On Backend Development With Node.js  
+- 🔧 Focused on Backend Development with Node.js  
 - 🧩 Passionate about Software Architecture  
 - 🤖 Exploring the world of Artificial Intelligence
 

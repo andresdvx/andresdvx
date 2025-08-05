@@ -12,7 +12,7 @@
 
 <h2>Skills</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,ts,js,nodejs,expressjs,nestjs,py,react,zustand,jest,html,css,docker,git,railway,mongodb,mysql,sqlserver)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,ts,js,nodejs,expressjs,nestjs,py,react,zustand,jest,html,css,docker,git,railway,mongodb,mysql,sqlserver,supabase)
 
 </br>
 </br>
